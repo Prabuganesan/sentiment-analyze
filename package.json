@@ -1,0 +1,19 @@
+{
+  "name": "sentiment-analyze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sentiment": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/sentiment": "^5.0.4",
+    "typescript": "^5.7.2"
+  }
+}
