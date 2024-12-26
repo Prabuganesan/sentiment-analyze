@@ -1,6 +1,6 @@
 {
   "name": "sentiment-analyze",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +17,8 @@
     "typescript": "^5.7.2"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Prabuganesan/sentiment-analyze"
-},
-"homepage": "https://github.com/Prabuganesan/sentiment-analyze#readme"
+    "type": "git",
+    "url": "https://github.com/Prabuganesan/sentiment-analyze"
+  },
+  "homepage": "https://github.com/Prabuganesan/sentiment-analyze#readme"
 }
