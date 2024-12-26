@@ -19,10 +19,10 @@ Here's how to use the sentiment-analyze package in your Node.js project:
 **Example**
 ```
 // Import the SentimentAnalyzer
-const { SentimentAnalyzer } = require('sentiment-analyze');
+const { SentimentAnalyze } = require('sentiment-analyze');
 
 // Create an instance of SentimentAnalyzer
-const analyzer = new SentimentAnalyzer();
+const analyzer = new SentimentAnalyze();
 
 // Analyze a text string
 const result = analyzer.analyze('I love programming but hate bugs.');
