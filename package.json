@@ -15,5 +15,10 @@
   "devDependencies": {
     "@types/sentiment": "^5.0.4",
     "typescript": "^5.7.2"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Prabuganesan/sentiment-analyze"
+},
+"homepage": "https://github.com/Prabuganesan/sentiment-analyze#readme"
 }
