@@ -9,8 +9,9 @@ Lightweight and efficient.
 **📦 Installation**
 
 Install the package via npm:
-
+```
 npm install sentiment-analyze
+```
 
 **🚀 Usage**
 
