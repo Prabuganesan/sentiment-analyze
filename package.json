@@ -5,10 +5,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+"keywords": [
+  "sentiment",
+  "sentiment-analysis",
+  "text-analysis",
+  "NLP",
+  "natural-language-processing",
+  "emotion-analysis",
+  "text-processing",
+  "ai",
+  "language-processing",
+  "analysis",
+  "opinion-analysis"
+],
+  "author": "Prabu ganesan",
   "license": "MIT",
-  "description": "",
+  "description": "A lightweight and easy-to-use npm package for performing sentiment analysis on text. Analyze the positivity, negativity, or neutrality of any string input with ease, and process multiple texts in batch for more efficient analysis.",
   "dependencies": {
     "sentiment": "^5.0.2"
   },
