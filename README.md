@@ -69,27 +69,6 @@ An object containing:
 -negative: Array of negative words (string[]).
 
 
-**🛠️ Development**
-
-Clone the repository to contribute or make changes:
-
-```
-git clone https://github.com/<your-username>/sentiment-analyze.git
-cd sentiment-analyze
-npm install
-```
-
-To build the package:
-
-```
-npx tsc
-```
-
-To test the package:
-```
-node test.js
-```
-
 **📝 License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
