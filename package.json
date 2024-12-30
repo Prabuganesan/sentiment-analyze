@@ -1,23 +1,23 @@
 {
   "name": "sentiment-analyze",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-"keywords": [
-  "sentiment",
-  "sentiment-analysis",
-  "text-analysis",
-  "NLP",
-  "natural-language-processing",
-  "emotion-analysis",
-  "text-processing",
-  "ai",
-  "language-processing",
-  "analysis",
-  "opinion-analysis"
-],
+  "keywords": [
+    "sentiment",
+    "sentiment-analysis",
+    "text-analysis",
+    "NLP",
+    "natural-language-processing",
+    "emotion-analysis",
+    "text-processing",
+    "ai",
+    "language-processing",
+    "analysis",
+    "opinion-analysis"
+  ],
   "author": "Prabu ganesan",
   "license": "MIT",
   "description": "A lightweight and easy-to-use npm package for performing sentiment analysis on text. Analyze the positivity, negativity, or neutrality of any string input with ease, and process multiple texts in batch for more efficient analysis.",
@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/Prabuganesan/sentiment-analyze#readme",
   "funding": {
-  "type": "paypal",
-  "url": "https://paypal.me/prabuganesan"
-}
+    "type": "paypal",
+    "url": "https://paypal.me/prabuganesan"
+  }
 }
