@@ -8,6 +8,12 @@ A lightweight and easy-to-use npm package for performing sentiment analysis on t
 - **Emotion detection** that categorizes sentiment as happiness, sadness, or neutral.
 - Lightweight and efficient, with minimal dependencies.
 
+## ❤️ Support My Work!
+Maintaining this package requires effort and dedication. If this project helped you, consider buying me a coffee or supporting me via PayPal. Every donation helps keep this project alive!  
+
+[![Support via PayPal](https://img.shields.io/badge/Support-PayPal.me-blue?style=for-the-badge&logo=paypal)](https://paypal.me/prabuganesan)
+
+
 **📦 Installation**
 
 Install the package via npm:
